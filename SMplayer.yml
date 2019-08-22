@@ -6,6 +6,8 @@ ingredients:
     - smplayer
     - smplayer-themes
     - smplayer-skins
+    ppas:
+    - linux-schools/samba-latest 
 
   dist: xenial
   sources:
