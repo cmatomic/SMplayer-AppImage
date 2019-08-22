@@ -1,5 +1,5 @@
 app: smplayer
-binpatch: true
+union: true
 
 ingredients:
    packages: 
