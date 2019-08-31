@@ -6,6 +6,11 @@ ingredients:
     - smplayer
     - smplayer-themes
     - smplayer-skins
+    - libva
+    - libmpv
+    - mpv
+    - intel-vaapi-driver
+    - libva-utils
     ppas:
     - linux-schools/samba-latest 
 
@@ -13,3 +18,4 @@ ingredients:
   sources:
     - deb http://archive.ubuntu.com/ubuntu/ xenial main universe
     - deb http://ppa.launchpad.net/rvm/smplayer/ubuntu xenial main
+    - deb http://ppa.launchpad.net/mc3man/mpv-tests/ubuntu xenial main
