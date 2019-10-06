@@ -4,6 +4,7 @@ union: true
 ingredients:
    packages: 
     - smplayer
+    - samba
     - smplayer-themes
     - smplayer-skins
     - libva
