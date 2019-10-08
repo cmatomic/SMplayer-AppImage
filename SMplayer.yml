@@ -14,10 +14,10 @@ ingredients:
     - intel-vaapi-driver
     - libva-utils
     ppas:
-    - linux-schools/samba-latest 
+    #- linux-schools/samba-latest 
 
   dist: xenial
   sources:
     - deb http://archive.ubuntu.com/ubuntu/ xenial main universe
-    - deb http://ppa.launchpad.net/rvm/smplayer/ubuntu xenial main
-    - deb http://ppa.launchpad.net/mc3man/mpv-tests/ubuntu xenial main
+    #- deb http://ppa.launchpad.net/rvm/smplayer/ubuntu xenial main
+    #- deb http://ppa.launchpad.net/mc3man/mpv-tests/ubuntu xenial main
