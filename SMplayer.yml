@@ -5,6 +5,7 @@ ingredients:
    packages: 
     - smplayer
     - samba
+    - samba-libs
     - smplayer-themes
     - smplayer-skins
     - libva
